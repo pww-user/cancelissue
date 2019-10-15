@@ -1,0 +1,19 @@
+{
+  "name": "cancelissue",
+  "description": "",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "eb986144",
+  "clientVersion": "6.1.0-dev",
+  "theme": "Essential",
+  "creatorId": "admin",
+  "isBuiltInTemplate": false,
+  "screensCount": 4,
+  "creatorName": "PowWow Admin",
+  "explorations": [
+    "acmetransferrequests"
+  ],
+  "disableSideMenu": false,
+  "iconUrl": "/previews/login.png",
+  "hidden": false,
+  "created": 1571126886628
+}
